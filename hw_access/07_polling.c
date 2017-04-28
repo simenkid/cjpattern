@@ -1,0 +1,1 @@
+// Polling Pattern – Periodically check for new sensor data

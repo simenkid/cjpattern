@@ -1,0 +1,1 @@
+// Interrupt Pattern – Handle high-ugency hardware signals
